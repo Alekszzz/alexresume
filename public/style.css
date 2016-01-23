@@ -1,0 +1,26 @@
+/* MAIN STYLES */
+
+h2, h3 {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
+
+ul li {
+    padding: 10px;
+    display: inline;
+}
+
+header {
+    margin-bottom: 30px;
+}
+
+footer {
+    margin-top: 150px;
+}
+
+#navigation {
+    margin-bottom: 50px;
+}
